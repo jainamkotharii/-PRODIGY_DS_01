@@ -1,5 +1,5 @@
 # PRODIGY INFOTECH DATA SCIENCE INTERNSHIP TASK 1
-Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.
+• Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.
 
 Here's my submission for Task 1 of the Data Science Internship at Prodigy Infotech. In this task, I immersed myself in the provided dataset, conducting exploratory data analysis (EDA) to build a fundamental understanding of the data's characteristics. A core part of this involved creating a visualization that effectively illustrates the distribution of a selected variable.
 
@@ -18,8 +18,8 @@ The dataset used for this task is [worldpopulationdataset](worldpopulationdata.c
 
 Here's how I conducted the EDA:
 
-Cleaned the Data: I rigorously checked for and managed missing values, duplicates, and outliers to ensure data integrity.
-Visualized Distributions: I generated bar charts and stacked charts to effectively show how categorical and continuous variables were distributed across the dataset.
+• Cleaned the Data: I rigorously checked for and managed missing values, duplicates, and outliers to ensure data integrity.
+• Visualized Distributions: I generated bar charts and stacked charts to effectively show how categorical and continuous variables were distributed across the dataset.
 
 ## Conclusion
 To summarize, this exploratory data analysis successfully illuminated the distribution patterns of the selected variable, providing a robust understanding of its characteristics. This work establishes a solid foundation for future analytical and predictive modeling efforts.
@@ -27,5 +27,6 @@ To summarize, this exploratory data analysis successfully illuminated the distri
 Thank you for your time and consideration!
 
 ## For Contact Me
-1. Email: jainamkothari2804@gmail.com
-2. linkedin: [Jainam Kothari](https://www.linkedin.com/in/jainam-kothari-596377245/)
+• Email: jainamkothari2804@gmail.com
+• linkedin: [Jainam Kothari](https://www.linkedin.com/in/jainam-kothari-596377245/)
+• Website: [Visit to my portfolio](https://jainamkothari-portfolio.netlify.app/)
