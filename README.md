@@ -1,4 +1,4 @@
-# PRODIGY_DS_01
+# PRODIGY INFOTECH DATA SCIENCE INTERNSHIP TASK 1
 Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.
 
 Here's my submission for Task 1 of the Data Science Internship at Prodigy Infotech. In this task, I immersed myself in the provided dataset, conducting exploratory data analysis (EDA) to build a fundamental understanding of the data's characteristics. A core part of this involved creating a visualization that effectively illustrates the distribution of a selected variable.
