@@ -4,7 +4,7 @@ Create a bar chart or histogram to visualize the distribution of a categorical o
 Here's my submission for Task 1 of the Data Science Internship at Prodigy Infotech. In this task, I immersed myself in the provided dataset, conducting exploratory data analysis (EDA) to build a fundamental understanding of the data's characteristics. A core part of this involved creating a visualization that effectively illustrates the distribution of a selected variable.
 
 ## Dataset
-The dataset used for this task is worldpopulationdataset which is uploaded in this repository. This dataset contains records of population from the year 2001 to 2022.
+The dataset used for this task is [worldpopulationdataset](worldpopulationdata.csv) which is uploaded in this repository. This dataset contains records of population from the year 2001 to 2022.
 
 ## Tools and Libraries used
 
